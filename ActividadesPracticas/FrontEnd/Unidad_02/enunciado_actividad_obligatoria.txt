@@ -1,0 +1,4 @@
+1- Escribe el código HTML y de Bootstrap correspondiente para la creación de una página web que posea 
+    el siguiente aspecto: 
+
+    
